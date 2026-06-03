@@ -7,6 +7,6 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redactdeveloper&bg_color=0d1117&color=ffffff&line=ffffff&point=999999&hide_border=true)](https://github.com/redactdeveloper)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tragedy645/broodswag)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1vUVjgDPdMPc5lgYRkxTUV)
-<a href="https://soundcloud.com/tragedy645/broodswag">
-  <img src="https://img.shields.io/badge/▶%20broodswag-трагедия-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/>
-</a>
+
+OS: Arch Linux (Niri + Noctalia Shell)
+PC: GPU: 4070 CPU: I9-14900KF 64 GB DDR5
