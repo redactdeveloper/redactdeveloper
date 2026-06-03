@@ -8,7 +8,7 @@
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tragedy645/broodswag)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1vUVjgDPdMPc5lgYRkxTUV)
 
-OS: Arch Linux (Niri + Noctalia Shell)
-PC: GPU: 4070 CPU: I9-14900KF 64 GB DDR5
 ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+OS: Arch Linux (Niri + Noctalia Shell)
+PC: GPU: 4070 CPU: I9-14900KF 64 GB DDR5
