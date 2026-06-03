@@ -8,7 +8,13 @@
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tragedy645/broodswag)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1vUVjgDPdMPc5lgYRkxTUV)
 
-![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-OS: Arch Linux (Niri + Noctalia Shell)
-PC: GPU: 4070 CPU: I9-14900KF 64 GB DDR5
+<div align="center">
+
+![Intel](https://img.shields.io/badge/Intel_i9--14900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![RAM](https://img.shields.io/badge/64GB_DDR5-6A0DAD?style=for-the-badge&logoColor=white)
+
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Wayland](https://img.shields.io/badge/Wayland-FFB800?style=for-the-badge&logo=wayland&logoColor=black)
+
+</div>
