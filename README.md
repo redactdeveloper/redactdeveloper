@@ -14,7 +14,6 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RAM](https://img.shields.io/badge/64GB_DDR5-6A0DAD?style=for-the-badge&logoColor=white)
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Wayland](https://img.shields.io/badge/Wayland-FFB800?style=for-the-badge&logo=wayland&logoColor=black)
-
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 </div>
