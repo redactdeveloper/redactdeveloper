@@ -10,3 +10,5 @@
 
 OS: Arch Linux (Niri + Noctalia Shell)
 PC: GPU: 4070 CPU: I9-14900KF 64 GB DDR5
+![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
