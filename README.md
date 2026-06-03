@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![Intel](https://img.shields.io/badge/Intel_i9--14900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel_i9--14900KF-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM](https://img.shields.io/badge/64GB_DDR5-6A0DAD?style=for-the-badge&logoColor=white)
 
 ![Wayland](https://img.shields.io/badge/Wayland-FFB800?style=for-the-badge&logo=wayland&logoColor=black)
